@@ -21,7 +21,7 @@ $ sudo apt-get install git libssl-dev vim build-essential autoconf automake libt
 
 ### Packages used by the core during runtime
 
-After installing the tools required to compile the application, you'll need to install a few libraries that are used by the appication during runtime. They are:
+After installing the tools required to compile the application, you'll need to install a few libraries that are used by the application during runtime. They are:
 
 1. [alsa-lib](http://www.alsa-project.org/main/index.php/Download)
 2. [ao](https://www.xiph.org/ao/)
